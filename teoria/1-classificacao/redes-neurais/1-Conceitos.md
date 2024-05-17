@@ -1,0 +1,16 @@
+# Redes neurais - Conceitos
+- Inspirado no comportamento de neurônios biológicos.
+
+
+## Redes Neurais Artificiais
+![alt text](/teoria/1-classificacao/redes-neurais/images/image.png)
+
+- Nas redes neurais artificiais os neurônios são chamados de perceptron.
+- Neste modelo perceptron, as entradas são submetidas a um somatório, e são validados na função de ativação.
+
+## Feedforward
+- Alimentar a rede.
+- Se for um modelo supervisionado, no final temos uma análise de Loss (função de erro), entre o valor preditor e o valor real.
+ 
+## Backpropagation
+- Agora que sei o erro, preciso "calibrar a rede", fazendo o processo inverso. 
